@@ -1,1 +1,7 @@
 .env
+/processed_documents_case_reports
+/processed_documents
+/_MorePDFs
+/cache_pipeline
+/cache_resolvers
+/processed_documents_case_reports_from_dropbox
